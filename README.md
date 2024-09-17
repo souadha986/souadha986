@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souadha986
 - 👀 I’m interested in coding and design
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning dart
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me hamsashouda04@gmail.com
 - 😄 Pronouns: ...
