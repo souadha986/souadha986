@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me hamsashouda04@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: cs changed me a lot 
+- ⚡ Fun fact: Passionate about building apps from bits to beautiful UIs — from low-level code to full Flutter experiences.
 
 <!---
 souadha986/souadha986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
